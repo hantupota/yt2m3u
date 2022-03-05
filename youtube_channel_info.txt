@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 CH009 大愛電視 |  |  |
-https://youtu.be/oV_i3Hsl_zg
+https://www.youtube.com/watch?v=oV_i3Hsl_zg
 
 CH099 大愛二台 |  |  |
 https://youtu.be/DTNkEm6jaqQ
@@ -35,10 +35,10 @@ CH503 台視新聞 |  |  |
 https://youtu.be/xL0ch83RAK8
 
 CH505 華視新聞資訊 |  |  | 
-https://youtu.be/yUTy1U1wTwE
+https://www.youtube.com/watch?v=yUTy1U1wTwE
 
 鏡新聞 |  |  | 
 https://youtu.be/5n0y6b0Q25o
 
 我們這一家 木棉花直播 |  | |
-https://youtu.be/U9VpeXil8u8
+https://www.youtube.com/watch?v=U9VpeXil8u8
