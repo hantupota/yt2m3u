@@ -1,40 +1,40 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-大愛電視 |  |  |
+CH009 大愛電視 |  |  |
 https://youtu.be/oV_i3Hsl_zg
 
-大愛二台 |  |  |
+CH099 大愛二台 |  |  |
 https://youtu.be/DTNkEm6jaqQ
 
-東森新聞 |  |  |
+CH051 東森新聞 |  |  |
 https://youtu.be/R2iMq5LKXco
 
-民視新聞 |  |  |
+CH053 民視新聞 |  |  |
 https://youtu.be/yguQ1SzPM5U
 
-三立新聞 |  |  |
+CH054 三立新聞 |  |  |
 https://youtu.be/FoBfXvlOR6I
 
-三立財經新聞 |  |  |
+CH504 三立財經新聞 |  |  |
 https://youtu.be/CKjSm5ZeehE
 
-TVBS新聞 |  |  |
+CH055 TVBS新聞 |  |  |
 https://youtu.be/2mCSYvcfhtc
 
-TVBS |  |  |
+CH056 TVBS |  |  |
 https://youtu.be/hP6_jfCFxyQ
 
-東森財經新聞 |  |  | 
+CH057 東森財經新聞 |  |  | 
 https://youtu.be/ABn_ccXn_jc
 
-中視新聞 |  |  | 
+CH500 中視新聞 |  |  | 
 https://youtu.be/TCnaIE_SAtM
 
-台視新聞 |  |  | 
+CH503 台視新聞 |  |  | 
 https://youtu.be/xL0ch83RAK8
 
-華視新聞 |  |  | 
+CH505 華視新聞資訊 |  |  | 
 https://youtu.be/yUTy1U1wTwE
 
 鏡新聞 |  |  | 
