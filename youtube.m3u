@@ -12,43 +12,43 @@
 
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH009 大愛電視
-https://youtu.be/oV_i3Hsl_zg
+https://raw.githubusercontent.com/Andy9584/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH099 大愛二台
-https://youtu.be/DTNkEm6jaqQ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646507049/ei/yV8jYoTcKaKS2LYP-5Cj6Ac/ip/20.114.157.135/id/DTNkEm6jaqQ.6/source/yt_live_broadcast/requiressl/yes/tx/24129505/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgTRslcq_Clv3jKjE6l3A-OIsu68hzkUYqjI1adqeYfL8CICrtKoh9Uf7qT3eUylM8b3RHUxe8_QB8Eu5KC2be7-0N/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH051 東森新聞
-https://youtu.be/R2iMq5LKXco
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646507050/ei/yl8jYvnnCImChwbw37rwBA/ip/20.114.157.135/id/R2iMq5LKXco.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC_Tl3EXbTydVsYo_rgpPxQ20/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJC04kCcaZ9RfxsLT1kd7ysg65Odt3eiR9QaKP3vkjuSAiEAi5hW_-K3THiFIqojsxCkxZ9hTmaxnaprgkRB0Vt89kY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH053 民視新聞
-https://youtu.be/yguQ1SzPM5U
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646507050/ei/yl8jYvTSLOWG_9EPhsSkiAs/ip/20.114.157.135/id/yguQ1SzPM5U.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgKVQazVb-1veNg3-3XCvKvgQjn5lT0mfUpflzJWxO9U4CIQDRzVCl1GXaW6EjreYJRwu-CXBTYa2bVv6D6YnnvOFHmw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH054 三立新聞
-https://youtu.be/FoBfXvlOR6I
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646507051/ei/y18jYszTCZDh8wTf7KLQDA/ip/20.114.157.135/id/FoBfXvlOR6I.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZnO_nfxFpg5R8E5qc1nbIN1hK-W2kDgPAI5uV1XImVgCIQDIM_ZM8Ayx7NntWhuUT-VRz6Yfm5ZJ5r-7HkOnkzWhwA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH504 三立財經新聞
-https://youtu.be/CKjSm5ZeehE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646507051/ei/y18jYo3YNZDh8wTf7KLQDA/ip/20.114.157.135/id/CKjSm5ZeehE.31/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMcE4au0VeSVztnLlpsD9LjEGYGyLTY8WJ1rPAlX-vAkAiA2BKRhNZGa-NNzmY1Xviq82cQb2IalqNkG2NuqtzpE2w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH055 TVBS新聞
-https://youtu.be/2mCSYvcfhtc
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646507052/ei/zF8jYv_LHJPihwaYzIyABg/ip/20.114.157.135/id/2mCSYvcfhtc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgaUj3ATmiLWkI2WyE4V3L149BNtsSCL6a18ypMWCU060CIFvO4dqlv9vv0fYDE7GVWtSmKkwBMwvQf9v7R_MRXPiC/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH056 TVBS
-https://youtu.be/hP6_jfCFxyQ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646507053/ei/zV8jYp_ZAraqhwagn7-4BA/ip/20.114.157.135/id/hP6_jfCFxyQ.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ5gnx5uE-zNzXB61zGEOrNRsSSpwejx45YlLt9RHlrdAiALaH2mwCgqqmrFNrO_a8KFHDcrJCTdolvPKTt6jPe0DA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH057 東森財經新聞
-https://youtu.be/ABn_ccXn_jc
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646507053/ei/zV8jYseNMIqJhwaa-YbwBw/ip/20.114.157.135/id/ABn_ccXn_jc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIvEgwsp6HACiQP5zFCmXAx6qjWom3JkygTSYTYpZai4AiA453AoyL0XAuNYz3oibQPfawN3fWubQOa_DbYI41yFMw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH500 中視新聞
-https://youtu.be/TCnaIE_SAtM
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646507054/ei/zl8jYoSMHc7TgwPEiZngDA/ip/20.114.157.135/id/TCnaIE_SAtM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHFb12Xv_JkECSlMKcGlXA842FBMh0g-oip4ezHC24JACIEaXsbsRM_uyD2PQ2aTLmaXuRr_2gstf1xjQkTqNwPqq/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH503 台視新聞
-https://youtu.be/xL0ch83RAK8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646507055/ei/zl8jYtmeOp2J_9EP-cKMiAc/ip/20.114.157.135/id/xL0ch83RAK8.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIga5ZmIEBjZfrFnzuVablGnPXD_2MQQw7Ec4ThYtj8FE4CIBsASBmA4YfAJ8ASseTs26jgAovZQWasfUwd3Yl3La5-/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH505 華視新聞資訊
-https://youtu.be/yUTy1U1wTwE
+https://raw.githubusercontent.com/Andy9584/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 鏡新聞
-https://youtu.be/5n0y6b0Q25o
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646507056/ei/0F8jYqvvDYi9gwPusZbwDg/ip/20.114.157.135/id/5n0y6b0Q25o.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIwogfUewyLojWiMoonrWf0jDgYEeZX-5vhOC1rFcMoMCIHln9xufJWm7mbHAarFwu7mICvvapqU7aHsipl9j7uLa/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 我們這一家 木棉花直播
-https://youtu.be/U9VpeXil8u8
+https://raw.githubusercontent.com/Andy9584/YouTube_to_m3u/main/assets/moose_na.m3u
