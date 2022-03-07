@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=""
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
 #########################################################################
 #      ____            _           _   __  __                           #
@@ -12,10 +12,10 @@
 
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH009 大愛電視
-https://raw.githubusercontent.com/Andy9584/YouTube_to_m3u/main/assets/moose_na.m3u
+https://www.youtube.com/watch?v=oV_i3Hsl_zg
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH099 大愛二台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646657146/ei/GqolYo2eL4S48wSfmJfYBQ/ip/40.70.134.102/id/DTNkEm6jaqQ.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgIWvEgrVFgU3O4rtbpkoFAwJ6zx8JW_IGq9YN-wU6BcICIQD1ie-Ok_8ip1WPa3ye_ZYF4Kp1H5ibsZy3m-8ZqwyWzg%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=OKvWtVoDR8I
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH051 東森新聞
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646657147/ei/G6olYvebDojr8wSfm4vgBA/ip/40.70.134.102/id/R2iMq5LKXco.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC6miAObewuPnGFBrFgxK-91t/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALUA3FnBnsx-4CEsoI9EabZHNlKhl_VCMG4inZ9ZiMXgAiBVgLVokRQXnnahroYpqCmLKZ087jYVAW8yodbhluM-ZQ%3D%3D/file/index.m3u8
@@ -45,10 +45,10 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646657151/ei/H
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646657151/ei/H6olYouXM5jHhwa-4JkI/ip/40.70.134.102/id/xL0ch83RAK8.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANJmIEP-WZkHq0BVv6Z7-cVsan1D3GriskGkX0kyDEGaAiEAyh78_jBf_UUNVeT4n9QC7lVG5si1aOWey0p5pr7VV-Y%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", CH505 華視新聞資訊
-https://raw.githubusercontent.com/Andy9584/YouTube_to_m3u/main/assets/moose_na.m3u
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 鏡新聞
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646657153/ei/IaolYu3rDoyOhwbcx5fgCg/ip/40.70.134.102/id/5n0y6b0Q25o.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgW_YXtpGjD2nrriP0oRP1LhMG9WApsbEcK-61-weSGKQCIQCtVpDrNta4th6hdLCRX02xA7wh7VwndL7Iiba7XmdFow%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 我們這一家 木棉花直播
-https://raw.githubusercontent.com/Andy9584/YouTube_to_m3u/main/assets/moose_na.m3u
+https://www.youtube.com/watch?v=U9VpeXil8u8
