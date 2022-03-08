@@ -1,44 +1,44 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-CH009 大愛電視 |  |  |
-https://www.youtube.com/embed/oV_i3Hsl_zg
+大愛電視 |  |  |
 
-CH099 大愛二台 |  |  |
-https://www.youtube.com/user/DaAiVideo/live
 
-CH051 東森新聞 |  |  |
+大愛二台 |  |  |
+
+
+東森新聞 |  |  |
 https://youtu.be/R2iMq5LKXco
 
-CH053 民視新聞 |  |  |
+民視新聞 |  |  |
 https://youtu.be/yguQ1SzPM5U
 
-CH054 三立新聞 |  |  |
+三立新聞 |  |  |
 https://youtu.be/FoBfXvlOR6I
 
-CH504 三立財經新聞 |  |  |
+三立財經新聞 |  |  |
 https://youtu.be/CKjSm5ZeehE
 
-CH055 TVBS新聞 |  |  |
+TVBS新聞 |  |  |
 https://youtu.be/2mCSYvcfhtc
 
-CH056 TVBS |  |  |
-https://www.youtube.com/watch?v=hP6_jfCFxyQ
+TVBS |  |  |
 
-CH057 東森財經新聞 |  |  | 
+
+東森財經新聞 |  |  | 
 https://youtu.be/ABn_ccXn_jc
 
-CH500 中視新聞 |  |  | 
+中視新聞 |  |  | 
 https://youtu.be/TCnaIE_SAtM
 
-CH503 台視新聞 |  |  | 
+台視新聞 |  |  | 
 https://youtu.be/xL0ch83RAK8
 
-CH505 華視新聞資訊 |  |  | 
-https://www.youtube.com/c/%E8%8F%AF%E8%A6%96%E7%9B%B4%E6%92%AD%E9%A0%BB%E9%81%93/live
+華視新聞資訊 |  |  | 
+
 
 鏡新聞 |  |  | 
 https://youtu.be/5n0y6b0Q25o
 
 我們這一家 木棉花直播 |  | |
-https://www.youtube.com/channel/UCCPYSMEnbeepGM7RU6qxyUA/live
+
