@@ -1,17 +1,17 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-大愛電視 |  |  |
+cinta tv |  |  |
 
 
 大愛二台 |  |  |
 
 
 東森新聞 |  |  |
-https://youtu.be/R2iMq5LKXco
+https://youtu.be/Za5-fvwbPJI
 
 民視新聞 |  |  |
-https://youtu.be/yguQ1SzPM5U
+https://youtu.be/ylzbp6FusfY
 
 三立新聞 |  |  |
 https://youtu.be/FoBfXvlOR6I
